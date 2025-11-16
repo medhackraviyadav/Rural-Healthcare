@@ -1,0 +1,15 @@
+import React from 'react';
+
+const Spinner: React.FC = () => {
+  return (
+    <div className="flex justify-center items-center py-8">
+      <div
+        className="animate-spin rounded-full h-12 w-12 border-b-2 border-brand-primary"
+        role="status"
+        aria-label="Loading..."
+      ></div>
+    </div>
+  );
+};
+
+export default Spinner;
