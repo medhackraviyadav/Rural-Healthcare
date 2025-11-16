@@ -68,7 +68,7 @@ const Hero: React.FC = () => {
               initial={{ opacity: 0, scale: 0.8 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 1, delay: 0.5 }}
-              src="https://i.ibb.co/L5hBvYV/hero-image.png" 
+              src="https://drive.google.com/file/d/1jnrx_7HCYtwFClUy-wseU4EoiHoe6iPR/view?usp=sharing" 
               alt="A doctor consulting with a patient in a rural setting via a digital screen" 
               className="mx-auto w-full max-w-md md:max-w-xl"
             />
