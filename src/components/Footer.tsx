@@ -49,8 +49,8 @@ const Footer: React.FC = () => {
             <p className="text-gray-300">{t.slogan}</p>
             <div className="flex space-x-4 mt-6">
               <a href="#" className="text-gray-300 hover:text-white transition-colors"><Twitter /></a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors"><Facebook /></a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors"><Linkedin /></a>
+              <a href="https://www.linkedin.com/company/rural-health-bridge/" className="text-gray-300 hover:text-white transition-colors"><Facebook /></a>
+              <a href="https://www.linkedin.com/company/rural-health-bridge/" className="text-gray-300 hover:text-white transition-colors"><Linkedin /></a>
             </div>
           </div>
           <div className="grid grid-cols-2 gap-8 md:col-span-2">
